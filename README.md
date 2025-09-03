@@ -8,7 +8,7 @@ Welcome to the **Naan Mudhalvan Unity Game Development Course** — a comprehens
 ## 2. Course Objectives
 - Master **2D and 3D game fundamentals** using Unity.  
 - Learn **advanced C# scripting techniques**.  
-- Understand **Unreal Engine workflows and Blueprints**.  
+- Understand **Unreal Engine workflows and Blueprints**.   
 - Create **metaverse-ready environments with VR and AR technologies**.  
 - Apply **optimization strategies** for smooth gameplay across devices.
 
